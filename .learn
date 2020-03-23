@@ -3,4 +3,11 @@ learntags:
   - variables
 languages:
   - ruby
+<<<<<<< HEAD
 resources: 2
+=======
+resources: 2
+greeting="Hello World"
+irb
+greeting="Hello World"
+>>>>>>> 49c60b0e9a2a1ac01a99e24e3ee159de4fd8bf88
